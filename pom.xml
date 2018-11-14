@@ -132,6 +132,11 @@
                     <artifactId>cas-server-webapp-config-security</artifactId>
                     <version>${cas.version}</version>
                 </dependency>
+                <dependency>
+                    <groupId>org.apereo.cas</groupId>
+                    <artifactId>cas-server-support-json-service-registry</artifactId>
+                    <version>${cas.version}</version>
+                 </dependency>
                 <!--
                 ...Additional dependencies may be placed here...
                 -->
